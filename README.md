@@ -1,1 +1,9 @@
-# site-porfolio-for-designers
+# site-porfolio-for-designers - учебный проект
+### Выполнил проект: Когут Павел
+## Технологии: 
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- jQuery
+# Главной особенностью простенького проекта является меню-"гамбургер" в мобильной версии сайта
